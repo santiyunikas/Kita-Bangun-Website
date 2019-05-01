@@ -1,3 +1,10 @@
+Bahasa Indonesia :
+Kita Bangun adalah website yang berfokus pada bidang infrastruktur, tepatnya penyaluran bantuan atau donasi pembangunan fasilitas umum. Website ini dibangun untuk memenuhi mata kuliah Rekayasa Perangkat Lunak. Target utama Kita Bangun yaitu pembangunan fasilitas umum di daerah terpencil atau kurang mampu. Pada aplikasi ini ada dua jenis pengguna yaitu, donatur dan pengaju donasi. Secara garis besar pengaju donasi dapat menghimpun kebutuhan pembangunan sedangkan donatur dapat memberikan donasi melalui website Kita Bangun.
+
+English :
+Kita Bangun is a website that focuses on infrastructure, specifically the distribution of aid or donations for the construction of public facilities. This website was built to meet the Software Engineering course. The main target of Kita Bangun is the construction of public facilities in remote or underprivileged areas. In this application there are two types of users, namely, donors and donors. Broadly speaking, the donation applicants can collect development needs while donors can make donations through the Kita Bangun website.
+
+
 # [Start Bootstrap - Agency](https://startbootstrap.com/template-overviews/agency/)
 
 [Agency](https://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
